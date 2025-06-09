@@ -72,7 +72,6 @@ for (let i = 0; i < books.length; ++i)
     books[i].show();
 
 
-
 // Задание 4
 function isEmpty(_object) {
 
